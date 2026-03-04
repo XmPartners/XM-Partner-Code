@@ -1,0 +1,35 @@
+# What Is XM? — The Broker Behind 15 Million Traders Explained (2026)
+
+XM is a globally regulated online trading broker that gives retail traders access to financial markets including forex, stocks, indices, commodities, metals, energies, and cryptocurrency CFDs — all from a single account. Founded in 2009 under the legal name Trading Point of Financial Instruments, XM has grown from a small Cyprus-based operation into one of the largest and most recognized brokers in the world, now serving over 15 million clients across more than 190 countries.
+
+## The Core Offering
+
+At its most basic level, XM is a platform that lets you speculate on the price movements of financial instruments without owning the underlying assets. You trade Contracts for Difference (CFDs), which means you profit when the market moves in your predicted direction — and lose when it does not. The broker provides the platform, the pricing, the execution, and the leverage that makes this type of trading accessible to individuals with relatively small starting capital.
+
+XM offers access to over 1,400 tradable instruments. That includes 55+ currency pairs for forex trading, precious metals like gold and silver, major global stock indices such as the S&P 500 and DAX 40, individual stock CFDs from US and European exchanges, energy markets including crude oil and natural gas, and a range of cryptocurrency CFDs. This breadth of instruments means traders can diversify their activity across multiple asset classes from a single account without needing separate brokers for different markets.
+
+## Regulation and Safety
+
+XM operates through multiple regulated entities, holding licenses from some of the world's most respected financial authorities. These include ASIC in Australia, CySEC in Cyprus, DFSA in Dubai, and FSCA in South Africa, among others. This multi-jurisdictional regulation means XM must meet strict capital requirements, keep client funds in segregated bank accounts entirely separate from the company's own money, and submit to regular independent audits.
+
+Negative balance protection is a standard feature across all XM accounts, ensuring that no trader can lose more than their deposited amount — regardless of how volatile market conditions become.
+
+## Execution and Trading Conditions
+
+XM has built a strong reputation specifically around execution quality. The broker reports that 99.35% of all orders are filled in under one second, with zero requotes and zero trade rejections. For traders who rely on precise entry and exit timing — scalpers, news traders, and anyone using short-term strategies — this consistency is not a minor detail. It is fundamental to strategy performance.
+
+Spreads start from 0.6 pips on Ultra Low accounts and from 0.0 pips on Zero accounts. The minimum deposit is just $5, making XM genuinely accessible to traders at every capital level.
+
+## Platforms and Support
+
+XM supports MetaTrader 4, MetaTrader 5, a proprietary mobile app, and a browser-based web terminal. All platforms are available on desktop, web, and mobile. Customer support operates in over 30 languages with 24/5 availability during market hours.
+
+For new traders, XM also provides a full educational library including live webinars, video tutorials, daily market analysis, and economic calendars — making it a complete environment for learning and trading simultaneously.
+
+In short, XM is a well-regulated, high-execution, multi-asset broker trusted by millions of traders worldwide, with infrastructure and conditions designed to serve everyone from the first-time depositor to the active professional.
+
+**[→ Open an XM Account](https://affs.click/0lmmY)**
+
+---
+
+> ⚠️ **Risk Warning:** CFDs are complex instruments and carry a high risk of losing money rapidly due to leverage. Between 70–80% of retail investor accounts lose money when trading CFDs. Please ensure you understand the risks involved before trading.
